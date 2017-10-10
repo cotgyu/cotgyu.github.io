@@ -1,2 +1,7 @@
 # cotgyu.github.io
-page
+Hi!
+
+안녕하세요!
+
+
+
